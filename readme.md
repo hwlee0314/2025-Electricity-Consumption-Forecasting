@@ -1,5 +1,5 @@
 # 2025 건물 전력 사용량 예측 AI 경진대회
-
+### [Competition Link](https://dacon.io/competitions/official/236531/overview/description)
 -  건물의 전력사용량 데이터, 기상데이터 등 시공간 정보를 활용하여 전력 사용량을 예측하는 AI 모델을 개발
 
 - 평가 산식: SMAPE (Symmetric Mean Absolute Percentage Error)

@@ -1,3 +1,5 @@
+<img width="1054" height="816" alt="Image" src="https://github.com/user-attachments/assets/c7d77688-e5eb-4904-9901-39e59bc1ec5c" />
+
 # 2025 건물 전력 사용량 예측 AI 경진대회
 
 ### **2025-07-14 ~ 2025.08.25**

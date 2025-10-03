@@ -3,7 +3,7 @@
 # 2025 건물 전력 사용량 예측 AI 경진대회
 
 ### **2025-07-14 ~ 2025.08.25**
-### [Competition Link](https://dacon.io/competitions/official/236531/overview/description)
+### [Competition & Data Link](https://dacon.io/competitions/official/236531/overview/description)
 -  건물의 전력사용량 데이터, 기상데이터 등 시공간 정보를 활용하여 전력 사용량을 예측하는 AI 모델을 개발
 
 - 평가 산식: SMAPE (Symmetric Mean Absolute Percentage Error)
@@ -36,16 +36,13 @@
 
 ```
 power-consumption-prediction/
-├── data/               
-│   ├── train.csv
-│   ├── test.csv
-│   └── building_info.csv
 ├── notebooks/           
 │   └── power_prediction_analysis.ipynb
 │   └── [Visualize]_간단한 데이터 시각화 공유.ipynb
 ├── .gitignore        
 ├── README.md           
-└── requirements.txt    
+├── requirements.txt    
+└── submission.csv  
 ```
 
 ---
